@@ -9,31 +9,13 @@
 
 💡 I'm passionate about leveraging technology for social good, with a focus on education equity and innovative solutions that drive positive change.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:**  
-C • CSS • HTML • Java • JavaScript • Python • R • SQL  
+Python • Java • SQL • C • JavaScript • TypeScript • HTML • CSS • R  
 
 **Frameworks & Libraries:**  
-Scikit-learn • Pandas • Matplotlib • Beautiful Soup • Pillow • React • Material UI • Node.js • Express.js  
+React • Material UI • Node.js • Express.js • Scikit-learn • Pandas • Matplotlib • Seaborn • NumPy • Beautiful Soup • Pillow
 
 **Tools & Technologies:**  
-A/B Testing • Git • Firebase • Figma • Supabase • Tableau • PostgreSQL • Postman • Power BI • Knex.js • Vercel
-
-
-
-
-<!--
-**itsmeicode/itsmeicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Git • Figma • Firebase • Supabase • PostgreSQL • Postman • Tableau • Knex.js • A/B Testing  
