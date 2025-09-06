@@ -3,9 +3,9 @@
 🎓 A senior at Barnard College studying Computer Science and Economics.
 
 👩🏻‍💻 Currently:
-- Product Management Intern @ People Inc. (formerly Dotdash Meredith)
 - AI/ML Fellow @ Breakthrough Tech (Cornell Tech)
 - AI/ML Fellow @ AI4ALL
+- Research Assistant @ Barnard Economics
 
 💡 I'm passionate about leveraging technology for social good, with a focus on education equity and innovative solutions that drive positive change.
 
