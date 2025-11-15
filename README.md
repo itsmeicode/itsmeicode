@@ -1,6 +1,6 @@
 ## Hi, I'm Mei! 👩🏻‍💻👋🏼
 
-I'm passionate about leveraging technology for social good, with a focus on education equity and innovative solutions that drive positive change.
+#### I'm passionate about leveraging technology for social good, with a focus on education equity and innovative solutions that drive positive change.
 
 ### Currently:
 - AI/ML Fellow @ Breakthrough Tech (Cornell Tech)
