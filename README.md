@@ -1,18 +1,20 @@
-## Hi, I'm Mei! 👋🏼
+## Hi, I'm Mei! 👩🏻‍💻👋🏼
 
-👩🏻‍💻 Currently:
+I'm passionate about leveraging technology for social good, with a focus on education equity and innovative solutions that drive positive change.
+
+### Currently:
 - AI/ML Fellow @ Breakthrough Tech (Cornell Tech)
 - Research Assistant @ Barnard Economics
-
-💡 I'm passionate about leveraging technology for social good, with a focus on education equity and innovative solutions that drive positive change.
+- Pro Bono Software Engineer @ Develop for Good (Brain Injury Connection)
 
 ### Tech Stack
 
 **Languages:**  
-Python • Java • SQL • C • JavaScript • TypeScript • HTML • CSS • R  
+Python • Java • JavaScript • C • SQL • HTML/CSS • R  
 
 **Frameworks & Libraries:**  
 React • Material UI • Node.js • Express.js • Scikit-learn • Pandas • Matplotlib • Seaborn • NumPy • Beautiful Soup • Pillow
 
 **Tools & Technologies:**  
 Git • Figma • Firebase • Supabase • PostgreSQL • Postman • Tableau • Knex.js • A/B Testing  
+
