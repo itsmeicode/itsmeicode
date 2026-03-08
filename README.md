@@ -1,20 +1,23 @@
-## Hi, I'm Mei! 👩🏻‍💻👋🏼
+# Hi, I'm Mei! 👩🏻‍💻👋🏼
 
-#### I'm passionate about leveraging technology for social good, with a focus on education equity and innovative solutions that drive positive change.
+### I'm passionate about leveraging technology for social good, with a focus on education equity and innovative solutions that drive positive change.
 
 ### Currently:
+- Software Engineer @ DishPair 
 - AI/ML Fellow @ Breakthrough Tech (Cornell Tech)
 - Research Assistant @ Barnard Economics
-- Pro Bono Software Engineer @ Develop for Good (Brain Injury Connection)
 
 ### Tech Stack
 
 **Languages:**  
-Python • Java • JavaScript • C • SQL • HTML/CSS • R  
+Python • Java • JavaScript • TypeScript • C • R • PHP • HTML/CSS • SQL
 
-**Frameworks & Libraries:**  
-React • Material UI • Node.js • Express.js • Scikit-learn • Pandas • Matplotlib • Seaborn • NumPy • Beautiful Soup • Pillow
+**Frameworks:**  
+React • Material UI • Tailwind CSS • Node.js • Express.js • FastAPI
+
+**Data & ML Libraries:**  
+NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn • Beautiful Soup • Pillow
 
 **Tools & Technologies:**  
-Git • Figma • Firebase • Supabase • PostgreSQL • Postman • Tableau • Knex.js • A/B Testing  
+Git • Docker • PostgreSQL • Supabase • Knex.js • Postman • Tableau • Figma • Vercel • A/B Testing
 
