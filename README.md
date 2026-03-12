@@ -3,7 +3,6 @@
 ### I'm passionate about leveraging technology for social good, with a focus on education equity and innovative solutions that drive positive change.
 
 ### Currently:
-- Software Engineer @ DishPair 
 - AI/ML Fellow @ Breakthrough Tech (Cornell Tech)
 - Research Assistant @ Barnard Economics
 
