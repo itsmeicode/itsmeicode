@@ -12,7 +12,7 @@
 Python • Java • JavaScript • TypeScript • C • R • PHP • HTML/CSS • SQL
 
 **Frameworks:**  
-React • Material UI • Tailwind CSS • Node.js • Express.js • FastAPI
+React • Material UI • Tailwind CSS • Node.js • Express.js • FastAPI • Flask
 
 **Data & ML Libraries:**  
 NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn • Beautiful Soup • Pillow
