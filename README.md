@@ -4,7 +4,6 @@
 
 ### Currently:
 - Software Engineer @ DishPair
-- AI/ML Fellow @ Breakthrough Tech (Cornell Tech)
 - Research Assistant @ Barnard Economics
 
 ### Tech Stack
