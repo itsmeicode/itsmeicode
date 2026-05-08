@@ -9,14 +9,21 @@
 ### Tech Stack
 
 **Languages:**  
-Python • Java • JavaScript • TypeScript • C • R • PHP • HTML/CSS • SQL
+Python • Java • JavaScript • TypeScript • C • R • PHP • HTML/CSS
 
-**Frameworks:**  
-React • Material UI • Tailwind CSS • Node.js • Express.js • FastAPI • Flask
+**Frontend:**  
+React • Material UI • Tailwind CSS
+
+**Backend:**  
+Node.js • Express.js • FastAPI • Flask • Knex.js
 
 **Data & ML Libraries:**  
 NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn • Beautiful Soup • Pillow
 
+**Databases:**  
+SQL • PostgreSQL • MongoDB • Neo4j • Supabase
+
 **Tools & Technologies:**  
-Git • Docker • PostgreSQL • Supabase • Knex.js • Postman • Tableau • Figma • Vercel • A/B Testing
+Git • Docker • Postman • Tableau • Figma • Vercel • A/B Testing
+
 
