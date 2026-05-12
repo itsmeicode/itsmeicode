@@ -18,7 +18,7 @@ React • Material UI • Tailwind CSS
 Node.js • Express.js • FastAPI • Flask • Knex.js
 
 **Data & ML Libraries:**  
-NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn • Beautiful Soup • Pillow
+NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn • Beautiful Soup • Pillow • Jupyter Notebook
 
 **Databases:**  
 SQL • PostgreSQL • MongoDB • Neo4j • Supabase
