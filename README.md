@@ -2,10 +2,6 @@
 
 ### I'm passionate about leveraging technology for social good, with a focus on education equity and innovative solutions that drive positive change.
 
-### Currently:
-- Software Engineer @ DishPair
-- Research Assistant @ Barnard Economics
-
 ### Tech Stack
 
 **Languages:**  
