@@ -1,7 +1,5 @@
 # Hi, I'm Mei! 👩🏻‍💻👋🏼
 
-### I'm passionate about leveraging technology for social good, with a focus on education equity and innovative solutions that drive positive change.
-
 ### Tech Stack
 
 **Languages:**  
